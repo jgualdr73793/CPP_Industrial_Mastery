@@ -26,6 +26,8 @@ This repository is divided into two main sections:
 ├── .gitignore               # Keeps the repo clean from build artifacts
 └── README.md                # You are here!
 
+```
+
 ## 🧠 Technical Milestones Achieved
 
 ### 1. Memory Safety & RAII
@@ -54,6 +56,16 @@ This repository is divided into two main sections:
 
 ### Building and Running
 If you are on Windows, you can use the provided automation script:
-```bash
+``` text
 cd final_project
 ./correr.bat
+
+```
+Alternatively, use standard CMake commands:
+``` text
+mkdir build
+cd build
+cmake ..
+cmake --build .
+./Debug/main.exe
+```
