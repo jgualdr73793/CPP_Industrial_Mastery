@@ -59,7 +59,6 @@ If you are on Windows, you can use the provided automation script:
 ``` text
 cd final_project
 ./correr.bat
-
 ```
 Alternatively, use standard CMake commands:
 ``` text
