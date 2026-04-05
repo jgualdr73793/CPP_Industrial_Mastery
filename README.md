@@ -13,7 +13,6 @@ This repository is divided into two main sections:
 ## 📂 Repository Structure
 
 ```text
-.
 ├── learning_path/           # Progressive learning modules
 │   ├── 01_foundations.cpp   # Classes, Structs, and Encapsulation
 │   ├── 02_polymorphism.cpp  # Inheritance and Virtual Functions
@@ -25,7 +24,6 @@ This repository is divided into two main sections:
 │   └── correr.bat           # Windows automation script
 ├── .gitignore               # Keeps the repo clean from build artifacts
 └── README.md                # You are here!
-
 ```
 
 ## 🧠 Technical Milestones Achieved
